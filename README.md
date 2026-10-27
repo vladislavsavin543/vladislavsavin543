@@ -10,7 +10,7 @@
 оценить эффект эксперимента, разобраться в экономике продукта и проверить,
 приносит ли модель дополнительную пользу.
 
-[Telegram](https://t.me/js3fde) · [Почта](mailto:vladislavsavin543@gmail.com) · [Проект INCREMENT](https://github.com/vladislavsavin543/increment-uplift-lab)
+[Резюме](https://github.com/vladislavsavin543/vladislavsavin543/blob/main/RESUME_RU.md) · [Открыть демо](https://vladislavsavin543.github.io/increment-uplift-lab/) · [Telegram](https://t.me/js3fde) · [Почта](mailto:vladislavsavin543@gmail.com)
 
 ## Навыки
 
@@ -44,11 +44,11 @@
 95% доверительный интервал: **от −20,0 до +15,3**.
 Результат показывает, почему сложность модели сама по себе не гарантирует пользу для бизнеса.
 
-[Код и инструкция](https://github.com/vladislavsavin543/increment-uplift-lab)
+[Демо без установки](https://vladislavsavin543.github.io/increment-uplift-lab/) · [Код и инструкция](https://github.com/vladislavsavin543/increment-uplift-lab)
 · [Отчёт](https://github.com/vladislavsavin543/increment-uplift-lab/blob/main/reports/REPORT_RU.md)
 · [Ноутбук](https://github.com/vladislavsavin543/increment-uplift-lab/blob/main/notebooks/01_uplift_walkthrough.ipynb)
 
-[![Калькулятор кампании INCREMENT](https://raw.githubusercontent.com/vladislavsavin543/increment-uplift-lab/main/reports/figures/calculator_preview.png)](https://github.com/vladislavsavin543/increment-uplift-lab)
+[![Калькулятор кампании INCREMENT](https://raw.githubusercontent.com/vladislavsavin543/increment-uplift-lab/main/reports/figures/calculator_preview.png)](https://vladislavsavin543.github.io/increment-uplift-lab/)
 
 ## Обо мне и работе
 
