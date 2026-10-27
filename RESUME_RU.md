@@ -21,8 +21,20 @@
 - **Бизнес-метрики:** метрики продукта, юнит-экономика.
 - **Сбор данных:** Beautiful Soup, Selenium.
 
-## Учебный проект
+## Учебные проекты
 
+### Обещали доставить — качество доставки и ранжирование риска
+
+[Демо](https://vladislavsavin543.github.io/promise-delivery-lab/)
+· [Код](https://github.com/vladislavsavin543/promise-delivery-lab)
+
+SQL-витрина из восьми таблиц Olist, проверки ключей и сумм, анализ сроков и отзывов.
+Логистическая регрессия выбрана на валидации; тест — более поздний период.
+При бюджете 20% модель находит 48,2% тестовых опозданий, простое правило — 28,4%.
+Оценка среди доставленных заказов; до внедрения нужны полная когорта и проверка доступности признаков.
+Подготовлены русскоязычный дашборд, выполненный ноутбук и автоматические проверки.
+
+**Стек:** SQL, DuckDB, Python, pandas, NumPy, scikit-learn, Matplotlib.
 ### INCREMENT — оценка дополнительного эффекта рассылки
 
 [Демо](https://vladislavsavin543.github.io/increment-uplift-lab/) · [Код](https://github.com/vladislavsavin543/increment-uplift-lab) · [Отчёт](https://github.com/vladislavsavin543/increment-uplift-lab/blob/main/reports/REPORT_RU.md)

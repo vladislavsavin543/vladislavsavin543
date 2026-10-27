@@ -25,6 +25,22 @@
 
 ## Портфолио
 
+### [Обещали доставить — аналитика Olist](https://github.com/vladislavsavin543/promise-delivery-lab)
+
+**Задача:** исследовать нарушения сроков и заранее выделить заказы с высоким риском опоздания.
+
+- SQL-витрина из восьми таблиц с защитой сумм от размножения при JOIN.
+- Анализ сроков, отмен, регионов, категорий, продавцов и отзывов.
+- Проверка модели по времени: 20% тестовых заказов в приоритете содержат **48,2% опозданий**
+  против **28,4%** у правила короткого обещанного срока.
+- Дашборд на русском, выполненный ноутбук, тесты и воспроизводимый анализ.
+
+Оценка условна на доставленных заказах; реальное предотвращение задержек не заявляется.
+
+[Открыть демо](https://vladislavsavin543.github.io/promise-delivery-lab/)
+· [Код](https://github.com/vladislavsavin543/promise-delivery-lab)
+· [Отчёт](https://github.com/vladislavsavin543/promise-delivery-lab/blob/main/reports/REPORT_RU.md)
+· [Ноутбук](https://github.com/vladislavsavin543/promise-delivery-lab/blob/main/notebooks/01_delivery_analysis.ipynb)
 ### [INCREMENT — лаборатория аплифта](https://github.com/vladislavsavin543/increment-uplift-lab)
 
 **Задача:** определить, кому отправить письмо, чтобы получить дополнительные покупки
